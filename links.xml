@@ -8,132 +8,134 @@
   </item>
   <item>
     <name>高等教育開発センター</name>
-    <url>#</url>
+    <url>http://www.fd-center.osakafu-u.ac.jp/</url>
   </item>
   <item>
     <name>総合教育研究機構</name>
-    <url>#</url>
+    <url>http://www.las.osakafu-u.ac.jp/</url>
   </item>
   <item>
     <name>先端科学イノベーションセンター</name>
-    <url>#</url>
+    <url>http://www.riast.osakafu-u.ac.jp/index.html</url>
   </item>
 </subject-wrap>
 <subject-wrap>
   <subject-name>現代システム科学域</subject-name>
   <item>
     <name>経済学研究科</name>
-    <url>#</url>
+    <url>http://www.eco.osakafu-u.ac.jp/</url>
   </item>
   <item>
     <name>人間社会システム科学研究科</name>
-    <url>#</url>
+    <url>http://www.human.osakafu-u.ac.jp/</url>
   </item>
 </subject-wrap>
 <subject-wrap>
   <subject-name>工学域</subject-name>
   <item>
     <name>工学研究科</name>
-    <url>#</url>
+    <url>http://www.eng.osakafu-u.ac.jp/</url>
   </item>
 </subject-wrap>
 <subject-wrap>
   <subject-name>生命環境科学域</subject-name>
   <item>
     <name>生命環境学研究科</name>
-    <url>#</url>
+    <url>http://www.bioenv.osakafu-u.ac.jp/</url>
   </item>
   <item>
     <name>自然科学類/理学系研究科</name>
-    <url>#</url>
+    <url>http://www.s.osakafu-u.ac.jp/</url>
   </item>
 </subject-wrap>
 <subject-wrap>
   <subject-name>地域保健学域</subject-name>
   <item>
     <name>看護学類/看護学研究科</name>
-    <url>#</url>
+    <url>http://www.nursing.osakafu-u.ac.jp/</url>
   </item>
   <item>
     <name>総合リハビリテーション学類/総合リハビリテーション研究学科</name>
-    <url></url>
+    <url>http://www.rehab.osakafu-u.ac.jp/</url>
   </item>
 </subject-wrap>
 <subject-wrap>
   <subject-name>各団体</subject-name>
   <item>
-    <name>第69回白鷺祭実行委員会</name>
-    <url>#</url>
+    <name>第70回白鷺祭実行委員会</name>
+    <url>http://sagisai.net/</url>
   </item>
   <item>
     <name>中百舌鳥キャンパス学生自治会</name>
-    <url>#</url>
+    <url>http://zichikai.ehoh.net/</url>
   </item>
   <item>
     <name>白鷺音響団体(S.T.A.F.-1)</name>
-    <url>#</url>
+    <url>http://staf1.s334.xrea.com/</url>
   </item>
   <item>
     <name>社会福祉学部学生自治会</name>
-    <url>#</url>
+    <url>http://www.geocities.co.jp/CollegeLife/4023/</url>
   </item>
   <item>
     <name>大阪府立大学生活協同組合</name>
-    <url>#</url>
+    <url>http://fudai.hanshin.coop/</url>
   </item>
+<!--
   <item>
     <name>府大ナビ</name>
     <url>#</url>
   </item>
+-->
 </subject-wrap>
 <subject-wrap>
   <subject-name>クラブ・サークル</subject-name>
   <item>
     <name>軽音楽部</name>
-    <url>#</url>
+    <url>http://sound.jp/opukeion/</url>
   </item>
   <item>
     <name>吹奏楽部</name>
-    <url>#</url>
+    <url>http://opu-brass.com/</url>
   </item>
   <item>
     <name>弓道部</name>
-    <url>#</url>
+    <url>http://www.ramzus.com/kyudo/</url>
   </item>
   <item>
     <name>マンドリンクラブ</name>
-    <url>#</url>
+    <url>http://www.geocities.jp/furitumandolin/</url>
   </item>
   <item>
     <name>美術部</name>
-    <url>#</url>
+    <url>http://suiryoukai2.web.fc2.com/</url>
   </item>
   <item>
     <name>VICTORYS-軟式野球サークル</name>
-    <url>#</url>
+    <url>http://victorys08.web.fc2.com/</url>
   </item>
   <item>
     <name>民族舞踊部(羽曳野キャンパス)</name>
-    <url>#</url>
+    <url>http://poisongirls.nobody.jp/index.html</url>
   </item>
   <item>
     <name>ピアノ部</name>
-    <url>#</url>
+    <url>http://opupc.trpg-circle.com/</url>
   </item>
   <item>
     <name>海外農業研究会</name>
-    <url>#</url>
+    <url>http://kainouken.web.fc2.com/</url>
   </item>
 </subject-wrap>
 <subject-wrap>
   <subject-name>大阪府立大学外</subject-name>
   <item>
     <name>社会人大喜利集団「ダイキリ」</name>
-    <url>#</url>
+    <url>http://blog.livedoor.jp/daiquiri_ohgiri/</url>
   </item>
   <item>
     <name>学園祭に行こう！（大学サークル＆ミスコン情報）</name>
-    <url>#</url>
+    <url>https://www.gakufes.com/</url>
   </item>
 </subject-wrap>
 </links>

@@ -1,6 +1,6 @@
 html,
 body {
-    width: 100%;
+    width: 1420;
     height: auto;
     margin: 0;
     padding: 0;
@@ -250,13 +250,50 @@ button.more {
     font-size: 16px;
 }
 
-.announce_contents {
+.announce_contents_1 {
     width: 30%;
     height: 20vh;
     margin: 12px;
     color: #fff;
     position: relative;
-    background-image: url(../images/procon.png);
+    background-image: url(../images/tent.png);
+    background-size: cover;
+    display: inline-flex;
+    justify-content: space-between;
+}
+
+.announce_contents_2 {
+    width: 30%;
+    height: 20vh;
+    margin: 12px;
+    color: #fff;
+    position: relative;
+    background-image: url(../images/guide.png);
+    background-size: cover;
+    display: inline-flex;
+    justify-content: space-between;
+}
+
+
+.announce_contents_3 {
+    width: 30%;
+    height: 20vh;
+    margin: 12px;
+    color: #fff;
+    position: relative;
+    background-image: url(../images/count/count1.jpg);
+    background-size: cover;
+    display: inline-flex;
+    justify-content: space-between;
+}
+
+.announce_contents_4 {
+    width: 30%;
+    height: 20vh;
+    margin: 12px;
+    color: #fff;
+    position: relative;
+    background-image: url(../images/stage.JPG);
     background-size: cover;
     display: inline-flex;
     justify-content: space-between;

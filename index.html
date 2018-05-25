@@ -14,6 +14,15 @@
 
 <body>
 
+    <div id="fb-root"></div>
+    <script>(function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = 'https://connect.facebook.net/ja_JP/sdk.js#xfbml=1&version=v3.0&appId=258058884938613&autoLogAppEvents=1';
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
+
 
     <header class="first_view">
         <article class="top_image">
@@ -25,7 +34,7 @@
         </article>
         <nav class="nav_PC nav_index PC">
             <ul>
-                <li><a href="about.html">about</a></li>
+                <li><a href="about.html">概要</a></li>
                 <li><a href="plan.html">企画・出展</a></li>
                 <li><a href="system.html">系活動</a></li>
                 <li><a href="supporter.html">協賛</a></li>
@@ -37,7 +46,7 @@
 
     <section class="countdown">
         <div class="container">
-            <h2>about</h2>
+            <h2>About</h2>
             <p>友好祭とは毎年5月下旬に開催される大阪府立大学の大学祭です。今年で第57回を迎える友好祭実行委員会は、「本祭典の開催を中心に、大学・地域の活性化に繋げる活動を委員一丸となって展開し、その過程で様々な人と友好の輪を拡げ、楽しさの共有を行う」という基本方針を掲げ、一年を通して様々な活動を行っております。</p>
             <div class="more_button">
                 <button class="more" type="button" name="more" value="more">
@@ -54,6 +63,12 @@
             <article>
                 <div>
                     <ul>
+                       <li>
+                            <dl>
+                                <dt><time>2018/05/25</time></dt>
+                                <dd>ステージ企画のタイムテーブルを更新しました。</dd>
+                            </dl>
+                        </li>
                         <li>
                             <dl>
                                 <dt><time>2018/05/16</time></dt>
@@ -89,21 +104,21 @@
         <div class="container">
             <h2>announce</h2>
             <article class="wrap">
-                <div class="announce_contents">
+                <div class="announce_contents_1">
                     <a href="announce_1.html">
                         <div class="announce_contents_title">
                             <p>テントの立て方</p>
                         </div>
                     </a>
                 </div>
-                <div class="announce_contents">
+                <div class="announce_contents_2">
                     <a href="announce_2.html">
                         <div class="announce_contents_title">
                             <p>当日のご案内</p>
                         </div>
                     </a>
                 </div>
-                <div class="announce_contents">
+                <div class="announce_contents_3">
                     <a href="announce_3.html">
                         <div class="announce_contents_title">
                             <p>カウントダウンアルバム</p>
@@ -127,12 +142,18 @@
 
             <div class="fb_wrap">
                 <p class="sns_name">facebook</p>
-                <div class="fb_dummy"></div>
+<!--                <div class="fb_dummy"></div>-->
+           
+               <div class="fb-page" data-href="https://www.facebook.com/yukousai.opu/" data-tabs="timeline" data-width="400" data-height="600" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true">
+                   <blockquote cite="https://www.facebook.com/yukousai.opu/" class="fb-xfbml-parse-ignore">
+                   <a href="https://www.facebook.com/yukousai.opu/">大阪府立大学  友好祭実行委員会</a>
+                   </blockquote>
+               </div>
             </div>
 
             <div class="blog_wrap">
                 <p class="sns_name">blog</p>
-                <div class="blog_dummy">友好祭実行委員会の<br>ブログはこちら！
+                <div class="">友好祭実行委員会の<br>ブログはこちら！
                     <button class="more" type="button" name="more" value="more">
                         <a href="https://ameblo.jp/yukousai">more</a>
                     </button>
